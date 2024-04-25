@@ -1,5 +1,4 @@
 # Welcome to My GitHub Page!
-# 欢迎来到我的GitHub页面！
 
 👋 Hello everyone, I am an undergraduate student from the University of Science and Technology of China, currently pursuing dual degrees in Mathematics and Computer Science.
 
@@ -13,6 +12,8 @@
 - Alternate Email: xk20031012@mail.ustc.edu.cn
 
 Let's explore the mysteries of technology and create a better future together!
+
+# 欢迎来到我的GitHub页面！
 
 👋 大家好，我是来自中国科学技术大学的一名本科生，目前正在攻读数学与计算机科学的双学位。
 
