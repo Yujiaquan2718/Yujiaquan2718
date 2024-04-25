@@ -8,6 +8,7 @@
 
 📫 How to reach me:
 - QQ: 2474524390
+- Phone: +86 15157517605
 - Email: 2474524390@qq.com
 - Alternate Email: xk20031012@mail.ustc.edu.cn
 
@@ -23,6 +24,7 @@ Let's explore the mysteries of technology and create a better future together!
 
 📫 联系方式：
 - QQ: 2474524390
+- 电话: +86 15157517605
 - 邮箱: 2474524390@qq.com
 - 另一个邮箱: xk20031012@mail.ustc.edu.cn
 
